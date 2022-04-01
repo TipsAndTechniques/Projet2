@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtJ74ndC6RfUoJ90XoUb2+QtUiiPkOHbDW47LRUgXlfjl52s9N5aaZd7Tpzm+ZbKrTmsyKJ/XL4ZmAF8Ed1wyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Claude\\Documents\\ProgWebGG\\VS 2019\\aaaProjet02\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claude\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Claude\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Claude\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Claude\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

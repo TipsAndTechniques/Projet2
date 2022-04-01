@@ -1,0 +1,26 @@
+choix	bonbon	prix	qte
+1	Wacky Monkey	 $2.00 	3
+2	Toxic Waste	 $2.75 	7
+3	Thumbs Dipper	 $1.75 	5
+4	Text Messenger	 $4.50 	0
+5	Ring Pop	 $0.75 	7
+6	Sweetarts	 $1.00 	6
+7	Flip Phone Pop	 $3.90 	8
+8	Popeye Sticks	 $1.25 	4
+9	Sour Foami Suret	 $2.90 	7
+10	Runts	 $1.50 	7
+11	Rockets	 $0.30 	8
+12	Rockets Géants	 $0.90 	7
+13	Sifflet	 $0.25 	5
+14	Shock Rocks	 $1.00 	2
+15	Slime licker	 $2.75 	1
+16	Shark Bite	 $3.60 	5
+17	Gobstopper	 $1.25 	2
+18	Gyro Pop	 $5.25 	8
+19	Ka Dunks	 $1.90 	1
+20	Licky Loop	 $0.90 	1
+21	Wafers	 $2.25 	0
+22	Garbage Candy	 $1.50 	2
+23	Nerds Pêche-Fruits	 $2.00 	0
+24	Nerds Raisins-Fraises	 $2.00 	1
+25	Nerds Framboise-Punch	 $2.00 	0
